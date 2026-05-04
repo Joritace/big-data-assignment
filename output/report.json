@@ -1,0 +1,129 @@
+{
+    "total_patents": 9454161,
+    "top_inventors": [
+        {
+            "name": "Kia Silverbrook",
+            "total_patents": 4778
+        },
+        {
+            "name": "Shunpei Yamazaki",
+            "total_patents": 6787
+        },
+        {
+            "name": "Bartley K. Andre",
+            "total_patents": 2478
+        },
+        {
+            "name": "Frederick E. Shelton, IV",
+            "total_patents": 2723
+        },
+        {
+            "name": "Duncan Robert Kerr",
+            "total_patents": 2534
+        },
+        {
+            "name": "Kangguo Cheng",
+            "total_patents": 2835
+        },
+        {
+            "name": "Tao Luo",
+            "total_patents": 4490
+        },
+        {
+            "name": "Peter Gaal",
+            "total_patents": 2554
+        },
+        {
+            "name": "Junyi Li",
+            "total_patents": 2881
+        },
+        {
+            "name": "Jonathan P. Ive",
+            "total_patents": 2947
+        }
+    ],
+    "top_companies": [
+        {
+            "name": "CANON KABUSHIKI KAISHA",
+            "total_patents": 91328
+        },
+        {
+            "name": "HITACHI, LTD.",
+            "total_patents": 46073
+        },
+        {
+            "name": "Intel Corporation",
+            "total_patents": 53218
+        },
+        {
+            "name": "LG ELECTRONICS INC.",
+            "total_patents": 50000
+        },
+        {
+            "name": "SONY GROUP CORPORATION",
+            "total_patents": 62908
+        },
+        {
+            "name": "International Business Machines Corporation",
+            "total_patents": 164081
+        },
+        {
+            "name": "SAMSUNG DISPLAY CO., LTD.",
+            "total_patents": 174536
+        },
+        {
+            "name": "General Electric Company",
+            "total_patents": 52040
+        },
+        {
+            "name": "Fujitsu Limited",
+            "total_patents": 56341
+        },
+        {
+            "name": "Kabushiki Kaisha Toshiba",
+            "total_patents": 53604
+        }
+    ],
+    "top_countries": [
+        {
+            "country": "US",
+            "total": 1987483
+        },
+        {
+            "country": "JP",
+            "total": 499038
+        },
+        {
+            "country": "DE",
+            "total": 302484
+        },
+        {
+            "country": "CN",
+            "total": 196441
+        },
+        {
+            "country": "KR",
+            "total": 154040
+        },
+        {
+            "country": "FR",
+            "total": 142006
+        },
+        {
+            "country": "CA",
+            "total": 113916
+        },
+        {
+            "country": "GB",
+            "total": 112701
+        },
+        {
+            "country": "TW",
+            "total": 100718
+        },
+        {
+            "country": "IN",
+            "total": 74851
+        }
+    ]
+}
