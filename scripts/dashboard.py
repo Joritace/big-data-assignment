@@ -8,8 +8,7 @@ import plotly.graph_objects as go
 
 # Page setup
 st.set_page_config(
-    page_title="Patent Intelligence Dashboard",
-    page_icon="🧠",
+    page_title="Patent Analytics Dashboard",
     layout="wide"
 )
 
@@ -336,13 +335,8 @@ if not country_trends_df.empty and "year" in country_trends_df.columns and lates
         country_growth = country_growth.sort_values("growth_percent", ascending=False)
 
 
-st.title("🧠 Global Patent Intelligence Dashboard")
+st.title("Global Patent Analytics Dashboard")
 
-st.markdown("""
-A summary of patent activity across companies, countries, technology fields, and technical complexity.
-""")
-
-st.write("---")
 
 
 # Key performance indicators
@@ -360,8 +354,6 @@ with k3:
 with k4:
     st.metric("Latest Year", latest_year)
 
-
-st.write("---")
 
 
 # Main dashboard sections
